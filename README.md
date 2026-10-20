@@ -1,4 +1,4 @@
-PIZZA Newsletter
+## PIZZA Newsletter
 
 > [!NOTE]
 > **Aktualizacja — 20.10.2026:** Pizzera wyłączyła promocje. Będę aktualizował co jakiś czas repo, stay tuned
