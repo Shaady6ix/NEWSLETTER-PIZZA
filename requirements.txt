@@ -1,0 +1,2 @@
+camoufox==0.5.8
+Pillow==11.3.0

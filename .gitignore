@@ -1,0 +1,18 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+
+# Dane przebiegów zawierają adresy e-mail, wiadomości i kody promocyjne
+runs/*
+!runs/.gitkeep
+kody.csv
+
+# Lokalny eksperyment, nie jest częścią repozytorium
+run1.py
+
+# Edytory i system
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store

@@ -1,0 +1,30 @@
+PRZYKŁAD KOMUNIKATÓW CMD — bez uruchamiania testu
+Kolorowego logo nie da się pokazać w zwykłym TXT. Uruchom run.py --preview w CMD.
+Baner w CMD jest odtwarzany z dołączonego logo-dominos.jpg.
+
+    ____  ____  __  ________   ______ _ _____
+   / __ \/ __ \/  |/  /  _/ | / / __ ( ) ___/
+  / / / / / / / /|_/ // //  |/ / / / //\__ \
+ / /_/ / /_/ / /  / // // /|  / /_/ / ___/ /
+/_____/\____/_/  /_/___/_/ |_/\____/ /____/
+  ━━ SOURCE • LAB ━━
+  Newsletter QA  |  Camoufox
+
+Przeglądarka działa bez widocznego okna.
+
+Adres testowy: test@example.com
+[1/8] 14:02:10  Formularz i zgoda są gotowe
+[2/8] 14:02:12  Skrzynka jest gotowa na wiadomości
+[3/8] 14:02:13  reCAPTCHA została załadowana
+[4/8] 14:02:15  Domino’s potwierdziło zapis
+      Czekam na mail aktywacyjny (maksymalnie 15 minut)...
+      Nadal czekam na mail aktywacyjny: 1/15 min
+[5/8] 14:03:40  Odebrano mail aktywacyjny
+[6/8] 14:03:40  Znaleziono link aktywacyjny
+[7/8] 14:03:42  Newsletter został aktywowany
+      Czekam na mail z kodem (maksymalnie 15 minut)...
+[8/8] 14:04:35  Odebrano kod rabatowy
+
+SUKCES! Kod 50%: XXXXXXXX
+Wszystkie kody: ...\kody.csv
+Raport: ...\runs\...\result.json
