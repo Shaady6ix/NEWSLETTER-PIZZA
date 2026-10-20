@@ -1,5 +1,9 @@
 PIZZA Newsletter
 
+> [!NOTE]
+> **Aktualizacja — 20.10.2026:** Pizzera wyłączyła promocje. Będę aktualizował co jakiś czas repo, stay tuned
+
+
 Pizza XXL za 37 zł? Spoko opcja
 
 <a href="https://buycoffee.to/fuzler" target="_blank">
@@ -74,8 +78,6 @@ Kilka kodów (np. 5):
 - `--live` generuje jeden kod 
 - Raporty w `runs/` i plik `kody.csv` mogą zawierać adresy e-mail, treść wiadomości i kody.
 
-> [!CAUTION]
-> Pliki wynikowe mogą zawierać dane osobowe lub kody promocyjne. Nie publikuj ich w repozytoriach publicznych ani nie udostępniaj osobom trzecim.
 
 ## Pliki
 
