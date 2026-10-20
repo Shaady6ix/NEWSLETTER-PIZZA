@@ -10,16 +10,13 @@ Pizza XXL za 37 zł? Spoko opcja
 <img width="514" height="209" alt="Domino’s Newsletter"
      src="https://github.com/user-attachments/assets/4d7a3f95-a836-4ce8-bfa9-1ac7e1e0af7c" />
 
-<a href="https://buycoffee.to/fuzler" target="_blank">
-  <img src="https://img.shields.io/badge/Postaw%20mi%20kaw%C4%99-FUZLER-ffdd00?logo=buy-me-a-coffee&amp;logoColor=000000"
-       alt="Postaw mi kawę" width="220" />
-</a>
+
 
 
 ## O projekcie
 
 Generator kodów 50% żniżki. Chcesz pizze za pół darmo? Dobrze trafiłeś
-
+Projekt powstał w celach edukacyjnych i służy do testowania pojedynczego procesu zapisu do newslettera z użyciem własnego adresu e-mail.
 
 ## Wymagania
 
@@ -43,19 +40,19 @@ py -m venv .venv
 Sprawdzenie strony i selektorów bez wysyłania formularza:
 
 ```powershell
-.\.venv\Scripts\python.exe run1.py --check
+.\.venv\Scripts\python.exe run.py --check
 ```
 
 Jeden kod:
 
 ```powershell
-.\.venv\Scripts\python.exe run1.py --live
+.\.venv\Scripts\python.exe run.py --live
 ```
 
 Kilka kodów (np. 5):
 
 ```powershell
-.\.venv\Scripts\python.exe run1.py --count 5
+.\.venv\Scripts\python.exe run.py --count 5
 ```
 
 ## Wyniki 
@@ -71,3 +68,5 @@ Kilka kodów (np. 5):
 - `requirements.txt` — zależności Pythona.
 - `podglad-cmd.txt` — przykładowe komunikaty tekstowe.
 
+## Educational Use Disclaimer
+This project is for educational purposes only and is intended to test a single newsletter signup flow using your own email address. Do not use it to submit registrations in bulk, bypass security measures, or obtain multiple discount codes. Use it only in accordance with the service’s terms and with the service owner’s permission.
